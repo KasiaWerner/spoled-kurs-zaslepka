@@ -27,6 +27,8 @@ video {
 
 .text-center {
 	position: relative;
+	bottom: 550px;
+	font-weight: bold;
 }
 
 header {
