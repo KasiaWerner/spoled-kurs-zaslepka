@@ -1,11 +1,11 @@
 img {
-	max-height: 100px;
+	max-height: 60px;
 }
 
 .jumbotron {
 	height: auto;
 	padding: 0 !important;
-	margin: 0 !important;
+	margin-top: 60px;
 	background-size: auto; 
 	background-color: transparent;
 	position: relative;
