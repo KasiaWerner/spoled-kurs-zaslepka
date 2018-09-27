@@ -28,11 +28,14 @@ video {
 .text-center {
 	position: relative;
 	bottom: 550px;
-	font-weight: bold;
 }
 
 header {
 	color: #ffffff;
+}
+
+h1, h2 {
+	font-weight: bold;
 }
 
 a {
