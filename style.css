@@ -56,10 +56,10 @@ header {
 	}
 }
 
-@media (max-width: 791px) {
+@media (max-width: 924px) {
 
 	header {
-		top: 12% !important; 
+		top: 2% !important; 
 	}
 }
 
