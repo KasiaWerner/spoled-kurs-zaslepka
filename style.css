@@ -56,12 +56,20 @@ header {
 	}
 }
 
-@media (max-width: 924px) {
+@media (min-width: 924px) {
 
 	header {
 		top: 2% !important; 
 	}
 }
+
+@media (min-width: 768px) {
+
+	header {
+		top: -4%% !important; 
+	}
+}
+
 
 a {
 	color: #c54c46 !important;
