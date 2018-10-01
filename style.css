@@ -48,6 +48,13 @@ header {
 	left: 0;
 }
 
+@media (max-width: 1116px) {
+
+	header {
+		top: 12% !important; 
+	}
+}
+
 a {
 	color: #c54c46 !important;
 }
