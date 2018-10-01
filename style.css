@@ -99,6 +99,23 @@ header {
 	}
 }
 
+@media (max-width: 387px) {
+	
+	header {
+		top: -7% !important; 
+	}
+
+	h1 {
+		font-size: 20px !important; 
+		margin-bottom: 0 !important;
+	}
+	h2 {
+		font-size: 16px !important;
+		
+	}
+}
+
+
 a {
 	color: #c54c46 !important;
 }
