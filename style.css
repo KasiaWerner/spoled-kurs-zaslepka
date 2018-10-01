@@ -70,6 +70,12 @@ header {
 	}
 }
 
+@media (max-width: 767px) {
+
+	header {
+		top: 12% !important; 
+	}
+}
 
 a {
 	color: #c54c46 !important;
