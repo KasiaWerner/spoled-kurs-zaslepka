@@ -46,9 +46,17 @@ header {
 	position: absolute;
 	top: 30%;
 	left: 0;
+	right: 0;
 }
 
 @media (max-width: 991px) {
+
+	header {
+		top: 12% !important; 
+	}
+}
+
+@media (max-width: 791px) {
 
 	header {
 		top: 12% !important; 
