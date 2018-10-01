@@ -84,6 +84,17 @@ header {
 	}
 }
 
+@media (max-width: 542px) {
+
+	h1 {
+		font-size: 25px !important; 
+	}
+	h1 {
+		font-size: 20px !important;
+		margin-top: 0 !important;
+	}
+}
+
 a {
 	color: #c54c46 !important;
 }
