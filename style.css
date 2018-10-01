@@ -48,7 +48,7 @@ header {
 	left: 0;
 }
 
-@media (max-width: 1116px) {
+@media (max-width: 991px) {
 
 	header {
 		top: 12% !important; 
