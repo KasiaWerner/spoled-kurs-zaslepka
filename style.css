@@ -77,6 +77,13 @@ header {
 	}
 }
 
+@media (max-width: 556px) {
+
+	header {
+		top: -4% !important; 
+	}
+}
+
 a {
 	color: #c54c46 !important;
 }
