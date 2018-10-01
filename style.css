@@ -85,6 +85,10 @@ header {
 }
 
 @media (max-width: 542px) {
+	
+	header {
+		top: 10% !important; 
+	}
 
 	h1 {
 		font-size: 25px !important; 
